@@ -1,3 +1,3 @@
 # Update file smoke
 
-Stage: create
+Stage: update
